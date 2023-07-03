@@ -16,6 +16,21 @@ body {
     margin: 0 auto;
 }
 
+main {
+    color: #0000008c;
+    margin-bottom: 60px;
+}
+
+.secao-destaque {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.secao-destaque h2, .secao-titulo h3 {
+    margin: 0;
+}
+
 /* Início CSS Topo */
 .topo {
     background-color: #00cad1;
@@ -37,8 +52,8 @@ body {
     align-items: center;
 }
 
-.topo-logo {
-    height: 60px;
+.topo-logo { 
+    height: 60px; /* Altera a altura da div */
 }
 
 .links-topo {
@@ -56,3 +71,82 @@ body {
 }
 
 /* Fim CSS topo */
+
+/* Estilização do conteúdo do main */
+.imagem-fundo {
+    position: relative;
+    background-image: url('/assets/recepcao.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+.secao-titulo {
+    height: 100%;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.secao-titulo h1 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 38px;
+    margin: 0;
+}
+
+#sobre, #especialidade, #contato {
+    padding: 40px 20px 0;
+}
+
+.secao-lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secao-lista h3 {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.secao-lista img {
+    height: 250px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+figure {
+    box-shadow: 0px 1px 10px rgb(0 0 0 / 50%);
+    border-radius: 3px;
+    margin: 20px;
+    width: calc(100% / 3 - 40px);
+}
+
+.cards img {
+    width: 100%;
+}
+
+figcaption {
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.button-horarios {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-horarios a {
+    background-color: #00cad1;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px 20px;
+}
