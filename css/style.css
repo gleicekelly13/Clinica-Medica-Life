@@ -1,0 +1,58 @@
+/* Estilos Gerais */
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #fff;
+}
+
+.limita-secao {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+/* Início CSS Topo */
+.topo {
+    background-color: #00cad1;
+    width: 100%;
+}
+.topo-itens {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 60px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topo-logo {
+    height: 60px;
+}
+
+.links-topo {
+    display: flex;
+}
+
+.links-topo a {
+    padding: 10px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.links-topo a:hover {
+    color: #004b4c;
+}
+
+/* Fim CSS topo */
