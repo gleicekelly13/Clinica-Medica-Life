@@ -188,6 +188,28 @@ footer {
 }
 
 @media screen and (max-width: 425px) {
+    .topo-itens {
+        flex-direction: column;
+    }
+
+    .topo-titulo {
+        padding: 10px 0;
+    }
+
+    .links-topo {
+        width: 100%;
+        border-top: 1px solid #009fa5;
+        justify-content: space-around;
+    }
+
+    .imagem-fundo {
+        height: 200px;
+    }
+
+    .secao-titulo h1 {
+        font-size: 18px;
+    }
+
     figure {
         width: 100%;
     }
