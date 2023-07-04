@@ -150,3 +150,12 @@ figcaption {
     font-weight: 600;
     padding: 10px 20px;
 }
+
+/* Início CSS Rodapé */
+footer {
+    background-color: #0d6e71;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
