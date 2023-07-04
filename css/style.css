@@ -159,3 +159,36 @@ footer {
     text-align: center;
 }
 
+@media screen and (max-width: 1024px) {
+    .imagem-fundo {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .imagem-fundo {
+        height: 300px;
+    }
+
+    .secao-titulo h1 {
+        font-size: 30px;
+    }
+
+    .secao-lista img {
+        display: none;
+    }
+
+    .cards {
+        justify-content: center;
+    }
+
+    figure {
+        width: calc(100% / 2 - 40);
+    }
+}
+
+@media screen and (max-width: 425px) {
+    figure {
+        width: 100%;
+    }
+}
