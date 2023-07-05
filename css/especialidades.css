@@ -1,0 +1,67 @@
+.especialidades {
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.especialidades-itens {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.especialidades-itens a {
+    margin: 0 10px ;
+    color: #000;
+    border-bottom: 2px solid #00cad1;
+    font-size: 18px;
+}
+
+.especialidades-itens a:hover {
+    color: #0d6e71;
+}
+
+.box-especialidade {
+    margin-top: 40px;
+}
+
+.secao-tabela {
+    display: flex;
+    height: 240px;
+    padding: 0 20px;
+}
+
+.secao-tabela img {
+    width: 30%;
+    height: 100%;
+    object-fit: cover;
+}
+
+table { /* alinhamento da tabela */
+    border-spacing: 0;
+    text-align: left;
+    width: 70%;
+    height: 100%;
+}
+
+table thead th {
+    background-color: #00cad1;
+    color: #fff;
+}
+
+table tr {
+    background-color: #f1f1f1;
+    color: #585757;
+    font-weight: 500;
+}
+
+table tbody tr:nth-of-type(2n + 1) { /* essa fórmula dá o mesmo resultado de odd */
+    background-color: #cdcdcd;
+    border: 1px solid #f1f1f1;
+}
+
+table th, table td {
+    padding: 10px;
+}

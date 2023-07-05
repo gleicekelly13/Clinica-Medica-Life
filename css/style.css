@@ -46,14 +46,14 @@ main {
     margin: 0 auto;
 }
 
-.logo {
+.logo { /* faz alterações no link que envolve a imagem */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .topo-logo { 
-    height: 60px; /* Altera a altura da div */
+    height: 60px; /* Altera a altura da imagem em si */
 }
 
 .links-topo {
