@@ -10,6 +10,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .especialidades-itens a {
@@ -21,6 +22,10 @@
 
 .especialidades-itens a:hover {
     color: #0d6e71;
+}
+
+.secao-destaque {
+    padding: 0 20px;
 }
 
 .box-especialidade {
@@ -78,5 +83,11 @@ table th, table td {
     .secao-tabela {
         height: auto;
         justify-content: center;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .secao-tabela {
+        padding: 0;
     }
 }
