@@ -151,6 +151,10 @@ figcaption {
     padding: 10px 20px;
 }
 
+span {
+    font-weight: bold;
+}
+
 /* Início CSS Rodapé */
 footer {
     background-color: #0d6e71;
