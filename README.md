@@ -32,4 +32,10 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
-
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Melhor utilização das tags semânticas</li>
+  <li>Aprimoramento em estruturar tabelas</li>
+  <li>Prática ao aplicar os conceitos de flexbox</li>
+  <li>Prática em aplicar responsividade utilizando media queries</li>
+</ul>
