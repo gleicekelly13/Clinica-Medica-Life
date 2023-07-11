@@ -13,4 +13,11 @@
 <div align="center">
 <img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/eb50d6cc-bbaa-4ee2-9a83-deb9b9c907c9.png" width="500"/>
 </div>
+<br>
 
+## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/922cabcb-7fe5-4c3d-b51a-642a5da3d6b7.png" width="300"/>
+</div>
+<br>
