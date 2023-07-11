@@ -21,3 +21,11 @@
 <img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/922cabcb-7fe5-4c3d-b51a-642a5da3d6b7.png" width="300"/>
 </div>
 <br>
+
+<div align="center">
+<img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/e7cee2d1-21e9-4cfc-8c70-e390047d25ad.png" width="300"/>
+</div>
+<br>
+
+
+
