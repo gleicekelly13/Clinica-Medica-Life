@@ -91,3 +91,9 @@ table th, table td {
         padding: 0;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .especialidades-titulo h1 {
+        font-size: 22px;
+    }
+}
