@@ -44,3 +44,7 @@
   <li>Prática ao aplicar os conceitos de flexbox</li>
   <li>Prática em aplicar responsividade utilizando media queries</li>
 </ul>
+<br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+
