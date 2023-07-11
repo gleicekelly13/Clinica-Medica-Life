@@ -32,6 +32,11 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>A página apresenta navegação tanto dentro da própria página quanto com a página "especialidades".</p>
+<p>A página está responsiva, ou seja, ela se adapta a diferentes tamanhos de telas.</p>
+<br>
+
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
   <li>Melhor utilização das tags semânticas</li>
