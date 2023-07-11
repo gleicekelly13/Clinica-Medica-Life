@@ -47,4 +47,5 @@
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/Clinica-Medica-Life/ </p>
 
