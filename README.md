@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/eb50d6cc-bbaa-4ee2-9a83-deb9b9c907c9.png" width="500"/>
+<img src="https://github.com/gleicekelly13/Clinica-Medica-Life/assets/80974593/eb50d6cc-bbaa-4ee2-9a83-deb9b9c907c9.png" width="300"/>
 </div>
 <br>
 
